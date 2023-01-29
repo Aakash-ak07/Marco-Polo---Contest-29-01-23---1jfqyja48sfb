@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div id="main">
       <h1 id='marco-polo'>{marcoPolo}</h1>
-      <button id="marco-polp-toggler" onClick={togglerMarcoPolo}>{marcoPoloToggler}</button>
+      <button id="marco-polo-toggler" onClick={togglerMarcoPolo}>{marcoPoloToggler}</button>
     </div>
   )
 }
